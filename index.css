@@ -1,0 +1,11 @@
+body {
+  background: #d3b4b4;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img-tiger {
+  width: 400px;
+  height: 300px;
+}
