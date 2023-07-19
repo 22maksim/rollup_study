@@ -1,0 +1,20 @@
+{
+  "name": "tusk-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": [
+    "tusk",
+    "rollup"
+  ],
+  "author": "Maksim Russkih",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-json": "^6.0.0"
+  }
+}
